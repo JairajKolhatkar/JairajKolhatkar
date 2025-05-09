@@ -1,15 +1,15 @@
 # Hi there, I'm Jairaj Kolhatkar 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Web+Application+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Web+Application+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
 </div>
 
 ## About Me ℹ️
 
-- 🔭 I'm currently working on Web Application Development
-- 🌱 I'm currently learning Advanced JavaScript and React frameworks
+- 🔭 I'm currently working on Web Application Development and Machine Learning Projects
+- 🌱 I'm currently learning Advanced JavaScript, React frameworks, and ML/AI technologies
 - 👯 I'm looking to collaborate on innovative web projects and open source contributions
-- 💬 Ask me about Java, JavaScript, Web Development, and Database Design
+- 💬 Ask me about Java, JavaScript, Web Development, Machine Learning, and Database Design
 - 📫 How to reach me: jairajkolhatkar@gmail.com
 - 📞 Phone: +91 7083018771
 - ⚡ Fun fact: I love turning complex problems into elegant solutions!
@@ -28,6 +28,10 @@
   <img src="https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
 
 ## 📊 GitHub Stats
@@ -50,17 +54,22 @@
 ## 📌 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/JairajKolhatkar/Prediction-of-Placement-and-Admission-based-on-Demographic-Attributes">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JairajKolhatkar&repo=Prediction-of-Placement-and-Admission-based-on-Demographic-Attributes&theme=tokyonight" />
+  </a>
   <a href="https://github.com/JairajKolhatkar/Airline-Reservation-System">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JairajKolhatkar&repo=Airline-Reservation-System&theme=tokyonight" />
   </a>
+</div>
+<div align="center">
   <a href="https://github.com/JairajKolhatkar/blog-app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JairajKolhatkar&repo=blog-app&theme=tokyonight" />
   </a>
-</div>
-<div align="center">
   <a href="https://github.com/JairajKolhatkar/Online-Resume-Builder">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JairajKolhatkar&repo=Online-Resume-Builder&theme=tokyonight" />
   </a>
+</div>
+<div align="center">
   <a href="https://github.com/JairajKolhatkar/Portfolic">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JairajKolhatkar&repo=Portfolic&theme=tokyonight" />
   </a>
